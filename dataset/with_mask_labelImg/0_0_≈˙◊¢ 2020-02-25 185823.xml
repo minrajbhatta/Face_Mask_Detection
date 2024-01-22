@@ -1,0 +1,26 @@
+<annotation>
+	<folder>with_mask</folder>
+	<filename>0_0_≈˙◊¢ 2020-02-25 185823.png</filename>
+	<path>C:\Users\HP\RealTimeObjectDetection\Tensorflow\workspace\images\dataset\with_mask\0_0_≈˙◊¢ 2020-02-25 185823.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>89</width>
+		<height>137</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>64</ymin>
+			<xmax>86</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>with_mask</folder>
+	<filename>15.jpg</filename>
+	<path>C:\Users\HP\RealTimeObjectDetection\Tensorflow\workspace\images\dataset\with_mask\15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>131</width>
+		<height>192</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>91</ymin>
+			<xmax>131</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>

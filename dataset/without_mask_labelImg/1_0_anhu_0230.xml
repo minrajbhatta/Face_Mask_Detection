@@ -1,0 +1,26 @@
+<annotation>
+	<folder>without_mask</folder>
+	<filename>1_0_anhu_0230.jpg</filename>
+	<path>C:\Users\HP\RealTimeObjectDetection\Tensorflow\workspace\images\dataset\without_mask\1_0_anhu_0230.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>143</width>
+		<height>143</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>84</ymin>
+			<xmax>140</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>
